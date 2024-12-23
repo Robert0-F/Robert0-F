@@ -157,7 +157,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>🍌 Don't forget to get some Potassium 🍌</p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGszZmE0Z2ZrYzIwc3VwMGp1c2N1MTAxc2s2MWFoOTNkbXY4dW45aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bI9iVGCXzsllC/giphy.webp" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
