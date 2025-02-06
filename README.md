@@ -76,14 +76,14 @@ Here are some ideas to get you started:
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGszZmE0Z2ZrYzIwc3VwMGp1c2N1MTAxc2s2MWFoOTNkbXY4dW45aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bI9iVGCXzsllC/giphy.webp" />
 <h2>⚡️ A Few Quick Facts</h2>
-<ul>
+
 <li>🔭 I’m currently working on <a href="https://ittagirov.com">my site</a>.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Robert0-F">Github</a>.</li>
 <li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
 <li>📙 Check out my <a href="https://kazan.hh.ru/resume/585a5dcfff0ce5ba8f0039ed1f503836476f48">resume</a>.</li>
 
-</ul>
+
 <h2>✒️ Recent Posts</h2>
 
 
